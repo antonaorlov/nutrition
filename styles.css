@@ -18,6 +18,7 @@ p{
 #link1{
 display: inline;
  margin-right: 13em;
+ float:right;
   
 
 
@@ -25,11 +26,15 @@ display: inline;
 #link2{
 display: inline;
  margin-right: 13em;
+ float:right;
+  
 
 }
 #link3{
 display: inline;
  margin-right: 13em;
+ float:right;
+  
 
 }
 .calories{
