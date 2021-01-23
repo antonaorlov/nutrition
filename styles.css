@@ -18,7 +18,7 @@ p{
 #link1{
 display: inline;
  margin-right: 13em;
- float:right;
+ top:20px;
   
 
 
@@ -26,15 +26,13 @@ display: inline;
 #link2{
 display: inline;
  margin-right: 13em;
- width:100%;
-text-align:center;
-  
+ 
 
 }
 #link3{
 display: inline;
  margin-right: 13em;
- float:right;
+
   
 
 }
