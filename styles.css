@@ -72,13 +72,12 @@ display: block;
   font-weight: bold;
 }
 .maintse{
-   display: block;
+  display: block;
   font-size: 2em;
-  margin-left:36em;
-  margin-top: -9.9em;
+  margin-top: -5em;
   margin-bottom: 7em;
   text-align:center;
-  margin-right: 0em;
+  margin-right: 0;
   font-weight: bold;
 }
 .maintset{
