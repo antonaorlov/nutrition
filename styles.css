@@ -1,87 +1,87 @@
 .title{
-  color:red;
-  text-align:center;
+    color:red;
+    text-align:center;
 }
 body{
-  background-color:lightblue;
+    background-color:lightblue;
 }
 .image{
-  display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 p{
-  text-align:center;
-  color:black;
+    text-align:center;
+    color:black;
 }
 #link1{
 display: inline;
-margin-right: 13em;
-margin-left: 36.5em;
+ margin-right: 13em;
+  margin-left: 36.5em;
 
 
 }
 #link2{
 display: inline;
-margin-right: 13em;
+ margin-right: 13em;
 
 }
 #link3{
 display: inline;
-margin-right: 13em;
+ margin-right: 13em;
 
 }
 .calories{
-  text-align:center;
+    text-align:center;
 
 }
 #link4{
 
 text-align:left;
-margin-top: -36.5em;
+ margin-top: -36.5em;
 
 
 }
 .box{
 
-   border: 1px solid green ;
+     border: 1px solid green ;
 
 }
 .maint{
-display: block;
-font-size: 2em;
-margin-top: -5em;
-margin-bottom: 7em;
-text-align:center;
-margin-right: 0;
-font-weight: bold;
+  display: block;
+  font-size: 2em;
+  margin-top: -5em;
+  margin-bottom: 7em;
+  text-align:center;
+  margin-right: 0;
+  font-weight: bold;
 }
 .maints{
 display: block;
-font-size: 2em;
-margin-top: -7em;
-margin-bottom: 7em;
-text-align:center;
-margin-right: 0;
-font-weight: bold;
+  font-size: 2em;
+  margin-top: -7em;
+  margin-bottom: 7em;
+  text-align:center;
+  margin-right: 0;
+  font-weight: bold;
 }
 .maintse{
- display: block;
-font-size: 2em;
-margin-left:36em;
-margin-top: -9.9em;
-margin-bottom: 7em;
-text-align:center;
-margin-right: 0em;
-font-weight: bold;
+   display: block;
+  font-size: 2em;
+  margin-left:36em;
+  margin-top: -9.9em;
+  margin-bottom: 7em;
+  text-align:center;
+  margin-right: 0em;
+  font-weight: bold;
 }
 .maintset{
-  display: block;
-font-size: 2em;
-margin-top: -7em;
-margin-bottom: 7em;
-text-align:center;
-margin-right: -38em;
-font-weight: bold;
+    display: block;
+  font-size: 2em;
+  margin-top: -7em;
+  margin-bottom: 7em;
+  text-align:center;
+  margin-right: -38em;
+  font-weight: bold;
 }
