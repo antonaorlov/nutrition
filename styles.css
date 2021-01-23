@@ -26,7 +26,8 @@ display: inline;
 #link2{
 display: inline;
  margin-right: 13em;
- float:right;
+ width:100%;
+text-align:center;
   
 
 }
